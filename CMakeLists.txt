@@ -10,3 +10,13 @@ add_executable(02addr 02addr.cpp)
 add_executable(03echo_server 03echo_server.cpp)
 add_executable(03echo_client 03echo_client.cpp)
 
+add_executable(08echo_server 08echo_server.cpp)
+
+add_executable(08chat_server 08chat_server.cpp)
+add_executable(08chat_client 08chat_client.cpp)
+
+
+
+
+
+
